@@ -1,4 +1,4 @@
-# Supermarket Management system
+# Supermarket Management System
 # Project Overview
 GreenSpot Grocery is developed to offer a seamless online grocery shopping experience. It focuses on clean design, responsive user interface, and straightforward navigation, making it suitable for all users.
 
